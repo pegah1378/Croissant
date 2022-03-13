@@ -1,0 +1,20 @@
+#first {
+  background-color: aquamarine;
+}
+
+#contact {
+  text-decoration: none;
+  text-align: center;
+}
+#photo {
+  text-decoration: none;
+  text-align: center;
+}
+#mail {
+  color: brown;
+  text-decoration: none;
+  text-align: center;
+}
+#home:hover {
+  color: brown;
+}
